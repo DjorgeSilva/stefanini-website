@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/stefanini-website/static/js/main.74af5e3e.chunk.js",
-    "main.js.map": "/stefanini-website/static/js/main.74af5e3e.chunk.js.map",
+    "main.js": "/stefanini-website/static/js/main.a931ffad.chunk.js",
+    "main.js.map": "/stefanini-website/static/js/main.a931ffad.chunk.js.map",
     "runtime-main.js": "/stefanini-website/static/js/runtime-main.fa9054ff.js",
     "runtime-main.js.map": "/stefanini-website/static/js/runtime-main.fa9054ff.js.map",
-    "static/js/2.895e33e3.chunk.js": "/stefanini-website/static/js/2.895e33e3.chunk.js",
-    "static/js/2.895e33e3.chunk.js.map": "/stefanini-website/static/js/2.895e33e3.chunk.js.map",
+    "static/js/2.d27fd446.chunk.js": "/stefanini-website/static/js/2.d27fd446.chunk.js",
+    "static/js/2.d27fd446.chunk.js.map": "/stefanini-website/static/js/2.d27fd446.chunk.js.map",
     "index.html": "/stefanini-website/index.html",
-    "static/js/2.895e33e3.chunk.js.LICENSE.txt": "/stefanini-website/static/js/2.895e33e3.chunk.js.LICENSE.txt",
+    "static/js/2.d27fd446.chunk.js.LICENSE.txt": "/stefanini-website/static/js/2.d27fd446.chunk.js.LICENSE.txt",
     "static/media/success.6776e7db.png": "/stefanini-website/static/media/success.6776e7db.png",
     "static/media/warning.0fcf2670.png": "/stefanini-website/static/media/warning.0fcf2670.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fa9054ff.js",
-    "static/js/2.895e33e3.chunk.js",
-    "static/js/main.74af5e3e.chunk.js"
+    "static/js/2.d27fd446.chunk.js",
+    "static/js/main.a931ffad.chunk.js"
   ]
 }
